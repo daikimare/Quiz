@@ -7,3 +7,22 @@ h1 {
 body {
   margin: 0 0 0 0;
 }
+.container {
+  margin: 0 0 0 0;
+  text-align: center;
+}
+.alert-zone {
+  background-color: darkgray;
+  margin: 5% 37%;
+  margin-bottom: 0;
+  width: 500px;
+  height: 80px;
+}
+.alert-centense {
+  margin-top: 0%;
+}
+div.item div.answer{
+  margin: 0 0 0 0;
+  text-align: center;
+  display: inline-block;
+}
